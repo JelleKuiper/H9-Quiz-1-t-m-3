@@ -22,7 +22,6 @@ public class Q3 {
 		for(int i = 0; i < arrDier.length; i++) {
 			//if (i > 1) {
 				System.out.print(arrDier[i]);
-				System.out.print(arrDier[i]);
 			//}
 		}
 	}
